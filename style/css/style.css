@@ -1,0 +1,58 @@
+.container {
+  background-color: black;
+  color: #FFC300; }
+
+#colonne1 {
+  border: 5px solid grey; }
+
+#colonne2 {
+  border: 5px solid grey; }
+
+#banniere {
+  width: 100%; }
+
+header {
+  color: #FFC300;
+  border: 2px solid #FFC300; }
+  header a {
+    color: #FFFFFF; }
+
+li {
+  margin-left: 60px;
+  font-size: 25px;
+  background-color: black; }
+
+p {
+  font-size: 20px; }
+
+#colonne3 {
+  border: 5px solid grey; }
+  #colonne3 a {
+    color: #FFFFFF; }
+
+span {
+  font-size: 35px; }
+
+#minecraft {
+  margin-bottom: 20px; }
+
+footer {
+  margin-top: 20px;
+  border: 5px solid grey; }
+  footer a {
+    color: #FFFFFF;
+    margin-left: 60px;
+    font-size: 14px; }
+  footer h6 {
+    font-size: 10px; }
+    footer h6 a {
+      color: #FFC300;
+      margin-left: 0px;
+      font-size: 10px; }
+  footer #legende {
+    margin-top: 20px; }
+
+table thead th {
+  border: 5px solid grey; }
+table tbody td {
+  border: 5px solid grey; }
