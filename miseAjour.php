@@ -5,12 +5,13 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
-				<center> <img src="img/banniere.jpg" alt="Banniere Guilde Elegeia" id="banniere"> </center>
+				<center> <img src="img/pages/banniere.jpg" alt="Banniere Guilde Elegeia" id="banniere"> </center>
 			</div>
 		</div>
 		<?php
 			include("header.php");
 		?>
+	<div class="miseAjour">
 		<center> <h1> Minecraft 1.0 </h1> </center>
 		<div class="row">
 			<div class="col-md-6">
@@ -48,6 +49,9 @@
 					<p> La 1.0.1 est déstinée a corriger des bugs sur le serveur et des bugs multijoueur </p> </center>
 			</div>
 		</div>
+		<img src="img/miseAjour/1.0.0.jpg" width="100%" height="300px">
+	</div>
+	<div class="miseAjour">
 		<center> <h1> Minecraft 1.1 </h1> </center>
 		<div class="row">
 			<div class="col-md-12">
@@ -68,6 +72,9 @@
 				<p> La 1.1 est une mise à jour de Minecraft sortie le 12 Janvier 2012 dans laquelle ont été ajoutés de nouvelles langues, le type de monde "ultraplat", les plages, les oeufs de créatures et d'autres fonctionnalités </p> </center>
 			</div>
 		</div>
+		<img src="img/miseAjour/1.1.jpg" width="100%" height="400px">
+	</div>
+	<div class="miseAjour">
 		<center> <h1> Minecraft 1.2 </h1> </center>
 		<div class="row">
 			<div class="col-md-6">
@@ -160,6 +167,9 @@
 				<p> Ajout de quelques commande, correction de l'IA </p> </center>
 			</div>
 		</div>
+		<img src="img/miseAjour/1.2.jpg" width="100%" height="300px">
+	</div>
+	<div class="miseAjour">
 			<center> <h1> Minecraft 1.3 </h1> </center>
 		<div class="row">
 			<div class="col-md-6">
@@ -197,6 +207,9 @@
 				<p> Quelques nouveautés coter serveur, comme le fait de pouvoir cacher l'adresse d'un serveur avec la touche F1 </p> </center>
 			</div>
 		</div>
+		<img src="img/miseAjour/1.3.webp" width="100%" height="300px">
+	</div>
+	<div class="miseAjour">
 			<center> <h1> Minecraft 1.4 </h1> </center>
 		<div class="row">
 			<div class="col-md-6">
@@ -289,6 +302,9 @@
 				<p> Modification et correction de quelques bug </p> </center>
 			</div>
 		</div>
+		<img src="img/miseAjour/1.4.jpg" width="100%" height="300px">
+	</div>
+	<div class="miseAjour">
 			<center> <h1> Minecraft 1.5 </h1> </center>
 		<div class="row">
 			<div class="col-md-6">
@@ -345,6 +361,9 @@
 				<p> Amélioration des FPS quand on utilise un pack de texture haute résolution, et correction de quelques bug </p> </center>
 			</div>
 		</div>
+		<img src="img/miseAjour/1.5.jpg" width="100%" height="300px">
+	</div>
+	<div class="miseAjour">
 			<center> <h1> Minecraft 1.6 </h1> </center>
 		<div class="row">
 			<div class="col-md-6">
@@ -401,6 +420,9 @@
 				<p> Correction de nouveau bug apparut </p> </center>
 			</div>
 		</div>
+		<img src="img/miseAjour/1.6.jpg" width="100%" height="300px">
+	</div>
+	<div class="miseAjour">
 			<center> <h1> Minecraft 1.7 </h1> </center>
 		<div class="row">
 			<div class="col-md-6">
@@ -546,6 +568,9 @@
 				<p> Ajout de divers chose concernant le Realm </p> </center>
 			</div>
 		</div>
+		<img src="img/miseAjour/1.7.jpg" width="100%" height="300px">
+	</div>
+	<div class="miseAjour">
 			<center> <h1> Minecraft 1.8 </h1> </center>
 		<div class="row">
 			<div class="col-md-6">
@@ -727,6 +752,221 @@
 				<p> La 1.8.9 est une mise à jour de Minecraft qui améliore l’intégration de Realms </p> </center>
 			</div>
 		</div>
+		<img src="img/miseAjour/1.8.jpg" width="100%" height="300px">
+	</div>
+	<div class="miseAjour">
+			<center> <h1> Minecraft 1.9 </h1> </center>
+		<div class="row">
+			<div class="col-md-6">
+				<center> <table>
+						<thead>
+							<tr>
+								<th> Version </th>
+								<th> Date de sortie </th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td> 1.9 </td>
+								<td> 29 février 2016 </td>
+							</tr>
+						</tbody>
+					</table>
+				<p> La 1.9 (aussi nommée Mise à jour des combats, ou Combat Update en anglais) est une mise à jour majeure de Minecraft sortie le 29 février 2016. </br> Elle s'accompagne d'une restructuration importante de l'End et de la révision du système de combat avec la possibilité d'utiliser sa seconde main, l'arrivée de nouveaux objets tels que le bouclier et de nouvelles potions. </br> La 1.9 a battue 3 records : la version qui contient le plus de versions de développement, la plus longue attente entre deux versions et la version qui contient le plus de changements en nouveautés. </p> </center> 
+			</div>
+			<div class="col-md-6">
+				<center> <table>
+						<thead>
+							<tr>
+								<th> Version </th>
+								<th> Date de sortie </th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td> 1.9.1 </td>
+								<td> 30 mars 2016 </td>
+							</tr>
+						</tbody>
+					</table>
+				<p> La 1.9.1 est une mise à jour mineure de Minecraft sortie le 30 mars 2016 </p> </center>
+			</div>
+		</div>	
+		<div class="row">
+			<div class="col-md-6">
+				<center> <table>
+						<thead>
+							<tr>
+								<th> Version </th>
+								<th> Date de sortie </th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td> 1.9.2 </td>
+								<td> 30 mars 2016 </td>
+							</tr>
+						</tbody>
+					</table>
+				<p> La 1.9.2 est une mise à jour mineure de Minecraft qui corrige un bug de connexion aux serveurs en 1.9.1 </p> </center>
+			</div>
+			<div class="col-md-6">
+				<center> <table>
+						<thead>
+							<tr>
+								<th> Version </th>
+								<th> Date de sortie </th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td> 1.9.3 </td>
+								<td> 10 mai 2016 </td>
+							</tr>
+						</tbody>
+					</table>
+				<p> La 1.9.3 est une mise à jour mineure de Minecraft. Elle corrige les fuites de mémoires du pathfinding </p> </center>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-12">
+					<center> <table>
+						<thead>
+							<tr>
+								<th> Version </th>
+								<th> Date de sortie </th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td> 1.9.4 </td>
+								<td> 10 mai 2016 </td>
+							</tr>
+						</tbody>
+					</table>
+				<p> La 1.9.4 est une mise à jour mineure de Minecraft </p> </center>
+			</div>
+		</div>
+	<img src="img/miseAjour/1.9.jpg" width="100%" height="300px">
+	</div>
+	<div class="miseAjour">
+			<center> <h1> Minecraft 1.10 </h1> </center>
+		<div class="row">
+			<div class="col-md-6">
+				<center> <table>
+						<thead>
+							<tr>
+								<th> Version </th>
+								<th> Date de sortie </th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td> 1.10 </td>
+								<td> 8 juin 2016 </td>
+							</tr>
+						</tbody>
+					</table>
+				<p> La 1.10 (aussi nommée Mise à jour "Frostburn", ou Frostburn Update en anglais) est une mise à jour majeure de Minecraft sortie le 8 juin 2016 </p> </center>
+			</div>
+			<div class="col-md-6">
+				<center> <table>
+						<thead>
+							<tr>
+								<th> Version </th>
+								<th> Date de sortie </th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td> 1.10.1 </td>
+								<td> 22 juin 2016 </td>
+							</tr>
+						</tbody>
+					</table>
+				<p> La 1.10.1 est une mise à jour mineure de Minecraft sortie le 22 juin 2016, elle corrige quelques bugs. Elle est compatible avec les serveurs en version 1.10 </p> </center>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-12">
+				<center> <table>
+						<thead>
+							<tr>
+								<th> Version </th>
+								<th> Date de sortie </th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td> 1.10.2 </td>
+								<td> 23 juin 2016 </td>
+							</tr>
+						</tbody>
+					</table>
+				<p> La 1.10.2 est une mise à jour mineure de Minecraft sortie le 23 juin 2016, elle corrige un bug de la 1.10.1 qui causait des crashs au chargement du monde. Elle est compatible avec les serveurs en version 1.10 et 1.10.1 </p> </center>
+			</div>
+		</div>
+		<img src="img/miseAjour/1.10.jpg" width="100%" height="300px">
+	</div>
+	<div class="miseAjour">
+			<center> <h1> Minecraft 1.11 </h1> </center>
+		<div class="row">
+			<div class="col-md-6">
+				<center> <table>
+						<thead>
+							<tr>
+								<th> Version </th>
+								<th> Date de sortie </th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td> 1.11 </td>
+								<td> 14 novembre 2016 </td>
+							</tr>
+						</tbody>
+					</table>
+				<p> La 1.11, aussi appelée mise à jour de l'exploration (Exploration Update en anglais), est une mise à jour majeure de Minecraft sortie le 14 novembre 2016 </p> </center>
+			</div>
+			<div class="col-md-6">
+				<center> <table>
+						<thead>
+							<tr>
+								<th> Version </th>
+								<th> Date de sortie </th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td> 1.11.1 </td>
+								<td> 20 décembre 2016 </td>
+							</tr>
+						</tbody>
+					</table>
+				<p> La 1.11.1 est une mise à jour mineure de Minecraft sortie le 20 décembre 2016.[1] Cette version n'est pas compatible avec les serveurs en 1.11 </p> </center>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-12">
+				<center> <table>
+						<thead>
+							<tr>
+								<th> Version </th>
+								<th> Date de sortie </th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td> 1.11.2 </td>
+								<td> 21 décembre 2016 </td>
+							</tr>
+						</tbody>
+					</table>
+				<p> La 1.11.2 est une mise à jour mineure de Minecraft sortie le 21 décembre 2016.[1] Cette version est compatible avec les serveurs en 1.11.1 </p> </center>
+			</div>
+		</div>
+		<img src="img/miseAjour/1.11.jpg" width="100%" height="300px">
+	</div>
 	<?php	
 		include("footer.php");
 	?>

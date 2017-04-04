@@ -5,7 +5,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
-				<center> <img src="img/banniere.jpg" alt="Banniere Guilde Elegeia" id="banniere"> </center>
+				<center> <img src="img/pages/banniere.jpg" alt="Banniere Guilde Elegeia" id="banniere"> </center>
 			</div>
 		</div>
 		<?php
@@ -14,11 +14,11 @@
 			<div class="row">
 					<center> <h1> Les Créations de Félice </h1> </center>
 				<div class="col-md-6">
-					<img src="img/Féfé.png" alt="Le bas de la tour de Sauron version Minecraft" height="25%" width="100%">
+					<img src="img/construction/Féfé.png" alt="Le bas de la tour de Sauron version Minecraft" height="25%" width="100%">
 					<center> <p id="legende"> Voici le bas de la Tour de Sauron en construction, construit par notres amis Féfé </p> </center>
 				</div>
 				<div class="col-md-6">
-					<img src="img/Féfé2.png" alt="La tour de Sauron tout entiere" height="25%" width="100%">
+					<img src="img/construction/Féfé2.png" alt="La tour de Sauron tout entiere" height="25%" width="100%">
 					<center> <p id="legende"> Voici toute la Tour de Sauron en construction </p> </center>
 				</div>
 			</div>

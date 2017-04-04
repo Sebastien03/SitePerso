@@ -53,6 +53,22 @@ footer {
     margin-top: 20px; }
 
 table thead th {
-  border: 5px solid grey; }
+  border: 4px groove grey; }
 table tbody td {
+  border: 4px groove grey; }
+
+#miseAjour {
   border: 5px solid grey; }
+
+.miseAjour {
+  border: 5px solid grey;
+  margin-top: 50px; }
+
+h1 {
+  text-decoration: underline; }
+
+#pseudo {
+  color: purple;
+  font-size: 30px; }
+  #pseudo p {
+    font-size: 30px; }
